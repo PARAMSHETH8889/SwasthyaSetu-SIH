@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="./SwasthyaSetu-Banner(2).png" alt="SwasthyaSetu Banner" width="100%">
+</p>
 
 # 🩺 SwasthyaSetu
 
