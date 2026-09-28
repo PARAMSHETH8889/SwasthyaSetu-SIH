@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="./assets/SwasthyaSetu-Banner.png" alt="SwasthyaSetu Banner" width="100%">
+  <img src=".SwasthyaSetu-Banner (2).png" alt="SwasthyaSetu Banner" width="100%">
 </p>
 
 # 🩺 SwasthyaSetu
