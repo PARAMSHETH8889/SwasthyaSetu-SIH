@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 SwasthaSetu
+# 🩺 SwasthyaSetu
 
 ### *Connecting People • Healthcare • Continuous Care*
 
@@ -20,9 +20,9 @@
 
 ## 📖 Overview
 
-**SwasthaSetu** *(Setu = "Bridge")* is a digital healthcare support platform built for **Smart India Hackathon 2026**, designed to tackle one of India's most persistent challenges — **healthcare accessibility in rural and underserved communities**.
+**SwasthyaSetu** *(Setu = "Bridge")* is a digital healthcare support platform built for **Smart India Hackathon 2026**, designed to tackle one of India's most persistent challenges — **healthcare accessibility in rural and underserved communities**.
 
-Instead of functioning as a single-purpose health app, SwasthaSetu acts as a **connective layer** — linking patients, ASHA/frontline health workers, and healthcare facilities into one continuous, trackable healthcare journey. From first contact to long-term follow-up, no patient's story ends at the clinic door.
+Instead of functioning as a single-purpose health app, SwasthyaSetu acts as a **connective layer** — linking patients, ASHA/frontline health workers, and healthcare facilities into one continuous, trackable healthcare journey. From first contact to long-term follow-up, no patient's story ends at the clinic door.
 
 > 🌉 *"Healthcare shouldn't end at the clinic door. It should follow the patient home."*
 
@@ -40,9 +40,9 @@ Rural healthcare journeys are often **fragmented and one-way**: patients struggl
 
 ---
 
-## ❓ Why SwasthaSetu?
+## ❓ Why SwasthyaSetu?
 
-| Challenge | SwasthaSetu's Response |
+| Challenge | SwasthyaSetu's Response |
 |---|---|
 | 📴 Poor/no internet connectivity in rural areas | Offline-first design that syncs when connectivity returns |
 | 🧑‍⚕️ ASHA workers lack digital tooling in the field | Dedicated frontline worker support tools |
@@ -55,7 +55,7 @@ Rural healthcare journeys are often **fragmented and one-way**: patients struggl
 
 ## 💡 Our Solution
 
-SwasthaSetu digitizes the entire rural healthcare journey — turning disconnected touchpoints into one **continuous, trackable flow**:
+SwasthyaSetu digitizes the entire rural healthcare journey — turning disconnected touchpoints into one **continuous, trackable flow**:
 
 ```
   🚪 Access  →  🩺 Assessment  →  🔁 Referral  →  💊 Treatment  →  📞 Follow-up  →  ♾️ Continuous Care
@@ -82,7 +82,7 @@ Every patient interaction — from the first ASHA visit to long-term follow-up �
 <tr><td>👨‍👩‍👧</td><td><b>Caregiver Support Module</b> <i>(Planned)</i></td><td>Future module extending support to caregivers and family members.</td></tr>
 </table>
 
-> ⚕️ **Important:** All AI functionality in SwasthaSetu is **assistive only** — it helps surface information and guide workflows, and does **not** provide medical diagnosis or replace clinical judgment.
+> ⚕️ **Important:** All AI functionality in SwasthyaSetu is **assistive only** — it helps surface information and guide workflows, and does **not** provide medical diagnosis or replace clinical judgment.
 
 ---
 
@@ -112,7 +112,7 @@ graph TD
         F[🏥 Healthcare Facility]
     end
 
-    subgraph Platform["🌉 SwasthaSetu Platform"]
+    subgraph Platform["🌉 SwasthyaSetu Platform"]
         C[🔗 Core Platform]
         R[📋 Longitudinal Health Records]
         RF[🔁 Referral Engine]
@@ -143,7 +143,7 @@ graph TD
 
 <div align="center">
 
-### [▶️ Watch the SwasthaSetu Walkthrough](https://youtu.be/nFyw4Jtaioo)
+### [▶️ Watch the SwasthyaSetu Walkthrough](https://youtu.be/nFyw4Jtaioo)
 
 </div>
 
@@ -197,7 +197,7 @@ graph TD
 
 <div align="center">
 
-**SwasthaSetu** aims to be more than a healthcare app — it aims to be a **bridge** *("Setu")* between people and the care they deserve, making healthcare in rural and underserved India not just accessible, but **continuous, coordinated, and compassionate**.
+**SwasthyaSetu** aims to be more than a healthcare app — it aims to be a **bridge** *("Setu")* between people and the care they deserve, making healthcare in rural and underserved India not just accessible, but **continuous, coordinated, and compassionate**.
 
 ---
 
